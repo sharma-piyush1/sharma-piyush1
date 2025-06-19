@@ -1,44 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Piyush Sharma</h1>
+<h3 align="center">🚀 Aspiring Data Scientist | 🧠 AI & Machine Learning Enthusiast | 💻 Python & SQL</h3>
 
-<!--
-**sharma-piyush1/sharma-piyush1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-I’m Piyush Sharma, a passionate data analyst with a penchant for unraveling insights from messy datasets. 📊
+- 🎓 I’m currently doing **365 Careers' Data Science Bootcamp (2025)** on Udemy  
+- 💡 I’m passionate about **AI, ML, Deep Learning & Data-Driven Insights**
+- 🛠️ Tools I use: Python, Pandas, Matplotlib, Seaborn, Scikit-learn, SQL, PowerBI, Git
+- 👨‍💼 Previously: 5+ years of experience in **Talent Acquisition Manager-US**
 
-About Me
-🔍 Data Detective: Armed with SQL queries and a magnifying glass (okay, maybe just a laptop), I dive into data lakes, hunting down patterns, anomalies, and hidden stories. 🕵️‍♂️
+---
 
-📈 Analytics Aficionado: I believe that numbers have tales to tell. Whether it’s visualizing trends in Power BI or crunching numbers in Python, I’m all about turning data into actionable insights. 📊
+### 🛠️ Languages and Tools
 
-🤖 Machine Learning Enthusiast: When I’m not sifting through spreadsheets, I’m tinkering with algorithms. From regression models to neural networks, I love exploring the fascinating world of ML. 🤖
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-003B57?logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?logo=matplotlib)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-f7931e?logo=scikit-learn)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 
-👨‍💻 SQL Sorcerer: My spells involve SELECTs, JOINs, and GROUP BYs. I’ve summoned data from databases far and wide, and I’m always up for a new SQL adventure. 💫
+---
 
-What You’ll Find Here
-📚 Code Chronicles: Expect snippets of Python, R, and SQL. Whether it’s a data preprocessing script or a cool visualization, I’ve got you covered. 💻
+### 📈 GitHub Stats
 
-📊 Dashboard Diaries: I create interactive dashboards in Power BI that make data dance. Let’s turn those raw numbers into a visual symphony! 🎨
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="150" />
+</p>
 
-🧠 Machine Learning Musings: Curious about random forests, gradient boosting, or deep learning? Join me as I explore ML concepts and share my experiments. 🌟
+---
 
-Connect with Me
-🌐 LinkedIn: Let’s network! Connect with me on LinkedIn for data-driven discussions and terrible puns. 🤝
+### 📫 Let’s Connect
 
-🐦 Twitter: Follow me @YourHandle for data tips, cat memes, and occasional existential crises. 🐱
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-sharma7444/)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:sharmapiyush7444@gmail.com)
 
-Feel free to tweak this bio to match your style, and remember: data analysis is like solving a puzzle—one SQL query at a time! 😄🔍🚀
+> 💡 *Feel free to check out my projects or drop a message. I'm always open to collaboration and feedback!*
 
-And hey, if you need any more advice or want to chat about data-related stuff, just drop me a message. Happy coding! 🎉✨
+---
+
+⭐️ **Thanks for visiting my profile!**
