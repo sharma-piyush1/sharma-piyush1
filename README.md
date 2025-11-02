@@ -1,49 +1,90 @@
-<h1 align="center">Hi there 👋, I'm Piyush Sharma</h1>
-<h3 align="center"> 🧠 AL/ML and Data science Enthusiast 
+# Hi, I'm Piyush Sharma
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" />
-</p>
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast;LLM+%26+Agentic+AI+Developer;Building+RAG+Systems;LangChain+%7C+LangGraph+Expert)
+  
+</div>
+
+## 🚀 About Me
+
+I'm an **AI/ML enthusiast** passionate about building intelligent systems and exploring the cutting edge of LLMs and Agentic AI. I specialize in creating powerful AI applications using modern frameworks and tools.
+
+- 🤖 Building intelligent agents with **LangChain** and **LangGraph**
+- 🔍 Specializing in **RAG** systems and **Vector Databases**
+- 🚀 Working with **OpenAI**, **Groq**, and **NVIDIA NIM** for inference
+- 🤗 Leveraging **Hugging Face** models for various AI tasks
+- 🧠 Creating **Agentic AI** solutions that can reason and act autonomously
+- ⚡ Passionate about making AI accessible and practical
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### AI Frameworks & LLM Tools
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/🕸️_LangGraph-FF6B6B?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+![NVIDIA NIM](https://img.shields.io/badge/NVIDIA_NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+### Core Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### Specialized Skills
+![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-10B981?style=for-the-badge)
+![Vector Database](https://img.shields.io/badge/Vector_DB-EC4899?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+![Chroma](https://img.shields.io/badge/Chroma-FF6B6B?style=for-the-badge)
+
+</div>
+
+## 🔥 Current Focus
+
+```python
+class PiyushSharma:
+    def __init__(self):
+        self.name = "Piyush Sharma"
+        self.role = "AI/ML Enthusiast & LLM Developer"
+        self.expertise = [
+            "LangChain", "LangGraph", "RAG Systems",
+            "Agentic AI", "Vector Databases"
+        ]
+        self.tools = ["OpenAI", "Groq", "NVIDIA NIM", "Hugging Face"]
+        self.core_stack = ["Python", "TensorFlow", "Keras", "VS Code"]
+        
+    def build_agent(self):
+        return "Building intelligent agents that think and act!"
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing with AI!")
+
+me = PiyushSharma()
+me.say_hi()
+```
+
+## 📫 Let's Connect!
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-sharma7444/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmapiyush7444@gmail.com)
+    
+</div>
 
 ---
 
-### 👨‍💻 About Me
-
-- 🎓 I’m currently doing **365 Careers' Data Science Bootcamp (2025)** on Udemy  
-- 💡 I’m passionate about **AI, ML, Deep Learning & Data-Driven Insights**
-- 🛠️ Tools I use: Python, Pandas, Matplotlib, Seaborn, Scikit-learn, SQL, PowerBI, Git
-- 👨‍💼 Previously: 5+ years of experience in **Talent Acquisition Manager-US**
-
----
-
-### 🛠️ Languages and Tools
-
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![SQL](https://img.shields.io/badge/-SQL-003B57?logo=sqlite&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?logo=matplotlib)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-f7931e?logo=scikit-learn)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="150" />
-</p>
-
----
-
-### 📫 Let’s Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-sharma7444/)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:sharmapiyush7444@gmail.com)
-
-> 💡 *Feel free to check out my projects or drop a message. I'm always open to collaboration and feedback!*
-
----
-
-⭐️ **Thanks for visiting my profile!**
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=piyushsharma&color=6366F1&style=for-the-badge)
+  
+   
+  **"The best way to predict the future is to invent it with AI"**
+  
+</div>
