@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Piyush Sharma</h1>
-<h3 align="center">🚀 Aspiring AI/ML Engineer | 🧠 AL/ML and Data science Enthusiast | 💻 Python & SQL</h3>
+<h3 align="center"> 🧠 AL/ML and Data science Enthusiast 
 
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" />
