@@ -51,7 +51,7 @@ I'm an **AI/ML enthusiast** passionate about building intelligent systems and ex
 class PiyushSharma:
     def __init__(self):
         self.name = "Piyush Sharma"
-        self.role = "AI/ML Enthusiast & LLM Developer"
+        self.role = "AI/ML Enthusiast"
         self.expertise = [
             "LangChain", "LangGraph", "RAG Systems",
             "Agentic AI", "Vector Databases"
