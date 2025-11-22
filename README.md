@@ -43,32 +43,6 @@ I'm an **AI/ML enthusiast** passionate about building intelligent systems and ex
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
 ![Chroma](https://img.shields.io/badge/Chroma-FF6B6B?style=for-the-badge)
 
-</div>
-
-## 🔥 Current Focus
-
-```python
-class PiyushSharma:
-    def __init__(self):
-        self.name = "Piyush Sharma"
-        self.role = "AI/ML Enthusiast"
-        self.expertise = [
-            "LangChain", "LangGraph", "RAG Systems",
-            "Agentic AI", "Vector Databases"
-        ]
-        self.tools = ["OpenAI", "Groq", "NVIDIA NIM", "Hugging Face"]
-        self.core_stack = ["Python", "TensorFlow", "Keras", "VS Code"]
-        
-    def build_agent(self):
-        return "Building intelligent agents that think and act!"
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing with AI!")
-
-me = PiyushSharma()
-me.say_hi()
-```
-
 ## 📫 Let's Connect!
 
 <div align="center">
