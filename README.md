@@ -1,11 +1,5 @@
 # Hi, I'm Piyush Sharma
 
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast;LLM+%26+Agentic+AI+Developer;Building+RAG+Systems;LangChain+%7C+LangGraph+Expert)
-  
-</div>
-
 ## 🚀 About Me
 
 I'm an **AI/ML enthusiast** passionate about building intelligent systems and exploring the cutting edge of LLMs and Agentic AI. I specialize in creating powerful AI applications using modern frameworks and tools.
