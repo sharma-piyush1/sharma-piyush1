@@ -30,74 +30,70 @@ AI applications that combine LLMs, retrieval systems, Python backends, and struc
 | Infrastructure | Docker, AWS, Redis |
 | Databases | PostgreSQL, Neo4j, Qdrant, FAISS |
 
-## 🚀 Selected Projects
+## Selected work
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🏦 FinDoc AI
-
-**Autonomous Loan Underwriting System**
-
-- Financial document extraction using GenAI OCR.
-- LangGraph-based stateful processing.
-- Deterministic financial calculations.
-- Redis caching and FastAPI backend.
-
-**Stack:** Python · LangGraph · FastAPI · Gemini · Redis
-
-[↗ Explore Repository](https://github.com/sharma-piyush1/FinDoc-AI)
-
+<td width="112" valign="middle" align="center">
+<a href="https://github.com/sharma-piyush1/FinDoc-AI">
+<img src="https://placehold.co/112x112/111827/38BDF8?text=FinDoc" width="96" height="96" alt="FinDoc AI"/>
+</a>
 </td>
-<td width="50%" valign="top">
+<td valign="middle">
 
-### 🤖 TalentFlow AI
+### [FinDoc AI](https://github.com/sharma-piyush1/FinDoc-AI)
 
-**Multi-Agent Recruitment Engine**
+Document intelligence and automated loan underwriting.
 
-- Automated candidate sourcing using Exa.ai.
-- AI-powered candidate profiling against JDs.
-- Personalized outreach email generation.
-- Human review and candidate selection.
-
-**Stack:** Python · CrewAI · Gemini · Exa.ai · Streamlit
-
-[↗ Explore Repository](https://github.com/sharma-piyush1/TalentFlow-AI)
+Python · LangGraph · FastAPI · Gemini · Redis
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="112" valign="middle" align="center">
+<a href="https://github.com/sharma-piyush1/TalentFlow-AI">
+<img src="https://placehold.co/112x112/111827/5EEAD4?text=TalentFlow" width="96" height="96" alt="TalentFlow AI"/>
+</a>
+</td>
+<td valign="middle">
 
-### 🧬 Healthcare GraphRAG
+### [TalentFlow AI](https://github.com/sharma-piyush1/TalentFlow-AI)
 
-**Adversarial Clinical Decision Support System**
+Multi-agent candidate sourcing and screening.
 
-- Graph and vector hybrid retrieval.
-- Multimodal document and image parsing.
-- Adversarial response auditing workflow.
-- LangGraph orchestration with FastAPI.
-
-**Stack:** Python · LangGraph · Neo4j · Qdrant · FastAPI
-
-[↗ Explore Repository](https://github.com/sharma-piyush1/healthcare-graphrag-adversarial-cdss-v2)
+Python · CrewAI · Gemini · Exa.ai · Streamlit
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="112" valign="middle" align="center">
+<a href="https://github.com/sharma-piyush1/healthcare-graphrag-adversarial-cdss-v2">
+<img src="https://placehold.co/112x112/111827/FBBF24?text=GraphRAG" width="96" height="96" alt="Healthcare GraphRAG"/>
+</a>
+</td>
+<td valign="middle">
 
-### 🎓 AI Tutor
+### [Healthcare GraphRAG](https://github.com/sharma-piyush1/healthcare-graphrag-adversarial-cdss-v2)
 
-**Grade 10 NCERT AI Learning Assistant**
+Hybrid retrieval and clinical response auditing.
 
-- Subject-based educational question answering.
-- FAISS-based semantic retrieval.
-- Conversational memory and user profiles.
-- Chat history export and content filtering.
+Neo4j · Qdrant · LangGraph · FastAPI
 
-**Stack:** Python · LangChain · FAISS · Groq · Streamlit
+</td>
+</tr>
+<tr>
+<td width="112" valign="middle" align="center">
+<a href="https://github.com/sharma-piyush1/AI-Tutor-Grade10-NCERT">
+<img src="https://placehold.co/112x112/111827/C4B5FD?text=AI+Tutor" width="96" height="96" alt="AI Tutor"/>
+</a>
+</td>
+<td valign="middle">
 
-[↗ Explore Repository](https://github.com/sharma-piyush1/AI-Tutor-Grade10-NCERT)
+### [AI Tutor · Grade 10 NCERT](https://github.com/sharma-piyush1/AI-Tutor-Grade10-NCERT)
+
+An AI learning assistant for NCERT subjects.
+
+Python · LangChain · FAISS · Groq · Streamlit
 
 </td>
 </tr>
@@ -133,43 +129,9 @@ AI applications that combine LLMs, retrieval systems, Python backends, and struc
 
 ---
 
-## 📊 GitHub Analytics
-
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sharma-piyush1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharma-piyush1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=sharma-piyush1&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sharma-piyush1&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-## 🔭 Exploring Next
-
-- LLM evaluation and observability
-- Graph + vector hybrid retrieval
-- Agent workflow reliability
-- Cost-aware model routing
-- Production AI application architecture
-
----
-
-<div align="center">
-
-### Let's Build Something Interesting.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Piyush_Sharma-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/piyush-sharma7444/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/sharma-piyush1)
-
-<img src="https://komarev.com/ghpvc/?username=sharma-piyush1&label=PROFILE+VIEWS&color=00D9FF&style=flat-square" />
 
 </div>
