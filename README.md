@@ -12,6 +12,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/piyush-sharma7444/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmapiyush7444@gmail.com)
 
+<img src="https://komarev.com/ghpvc/?username=sharma-piyush1&label=Profile%20views&color=00D9FF&style=flat-square" alt="Profile views" />
+
 </div>
 
 ---
