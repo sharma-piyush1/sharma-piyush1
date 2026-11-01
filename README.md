@@ -36,7 +36,7 @@ AI applications that combine LLMs, retrieval systems, Python backends, and struc
 <tr>
 <td width="112" valign="middle" align="center">
 <a href="https://github.com/sharma-piyush1/FinDoc-AI">
-<img src="https://placehold.co/112x112/111827/38BDF8?text=FinDoc" width="96" height="96" alt="FinDoc AI"/>
+<img src="https://raw.githubusercontent.com/sharma-piyush1/sharma-piyush1/main/assets/projects/findoc-ai.svg" width="96" height="96" alt="FinDoc AI"/>
 </a>
 </td>
 <td valign="middle">
@@ -52,7 +52,7 @@ Python · LangGraph · FastAPI · Gemini · Redis
 <tr>
 <td width="112" valign="middle" align="center">
 <a href="https://github.com/sharma-piyush1/TalentFlow-AI">
-<img src="https://placehold.co/112x112/111827/5EEAD4?text=TalentFlow" width="96" height="96" alt="TalentFlow AI"/>
+<img src="https://raw.githubusercontent.com/sharma-piyush1/sharma-piyush1/main/assets/projects/talentflow-ai.svg" width="96" height="96" alt="TalentFlow AI"/>
 </a>
 </td>
 <td valign="middle">
@@ -68,7 +68,7 @@ Python · CrewAI · Gemini · Exa.ai · Streamlit
 <tr>
 <td width="112" valign="middle" align="center">
 <a href="https://github.com/sharma-piyush1/healthcare-graphrag-adversarial-cdss-v2">
-<img src="https://placehold.co/112x112/111827/FBBF24?text=GraphRAG" width="96" height="96" alt="Healthcare GraphRAG"/>
+<img src="https://raw.githubusercontent.com/sharma-piyush1/sharma-piyush1/main/assets/projects/healthcare-graphrag.svg" width="96" height="96" alt="Healthcare GraphRAG"/>
 </a>
 </td>
 <td valign="middle">
@@ -84,7 +84,7 @@ Neo4j · Qdrant · LangGraph · FastAPI
 <tr>
 <td width="112" valign="middle" align="center">
 <a href="https://github.com/sharma-piyush1/AI-Tutor-Grade10-NCERT">
-<img src="https://placehold.co/112x112/111827/C4B5FD?text=AI+Tutor" width="96" height="96" alt="AI Tutor"/>
+<img src="https://raw.githubusercontent.com/sharma-piyush1/sharma-piyush1/main/assets/projects/ai-tutor.svg" width="96" height="96" alt="AI Tutor"/>
 </a>
 </td>
 <td valign="middle">
