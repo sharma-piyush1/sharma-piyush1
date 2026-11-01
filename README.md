@@ -12,8 +12,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/piyush-sharma7444/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmapiyush7444@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=sharma-piyush1&label=Profile%20views&color=00D9FF&style=flat-square" alt="Profile views" />
-
 </div>
 
 ---
@@ -135,5 +133,9 @@ Python · LangChain · FAISS · Groq · Streamlit
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Piyush_Sharma-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/piyush-sharma7444/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/sharma-piyush1)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=sharma-piyush1&label=Profile%20views&color=00D9FF&style=flat-square" alt="Profile views" />
 
 </div>
